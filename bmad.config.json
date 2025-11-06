@@ -1,0 +1,11 @@
+{
+  "projectName": "Cornell Student Center redesign",
+  "modules": ["bmb","bmm","cis"],
+  "tools": ["claude-code","cursor","github-copilot"],
+  "paths": {
+    "agents": "bmad/agents",
+    "workflows": "bmad/workflows",
+    "docs": "docs",
+    "stories": "docs/stories"
+  }
+}
